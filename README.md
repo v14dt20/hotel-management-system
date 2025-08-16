@@ -1,1 +1,1 @@
-# hotel-menagement-system
+# hotel-management-system
